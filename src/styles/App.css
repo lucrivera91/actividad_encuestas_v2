@@ -86,3 +86,29 @@ mouse */
   color: #666;
   margin-bottom: 10px;
 }
+.opcion {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: baseline;
+}
+.btnQuitarOp {
+  margin-left: 5px;
+  height: 38px;
+}
+.btnAgregarOp {
+  height: 38px;
+  margin-left: 5px;
+}
+.pregunta {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: baseline;
+}
+.btnQuitarPreg {
+  margin-left: 5px;
+  height: 38px;
+}
+.btnAgregarPreg {
+  height: 38px;
+  margin-left: 5px;
+}
